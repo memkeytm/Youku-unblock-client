@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2012-08-26 19:38:22.240.pas,D:\我的文档\RAD Studio\Projects\Unit1.pas=E:\Dev\i3gqq\4\youku unlock\source\Main.pas</Transaction>
+    <Transaction>2012-08-26 19:38:22.255.dfm,D:\我的文档\RAD Studio\Projects\Unit1.dfm=E:\Dev\i3gqq\4\youku unlock\source\Main.dfm</Transaction>
+    <Transaction>2012-08-26 19:38:34.829.dproj,D:\我的文档\RAD Studio\Projects\Project1.dproj=E:\Dev\i3gqq\4\youku unlock\source\YoukuUnblock.dproj</Transaction>
+    <Transaction>2012-08-26 20:17:48.804.pas,E:\Dev\i3gqq\4\youku unlock\source\Unit1.pas=E:\Dev\i3gqq\4\youku unlock\source\uUtils.pas</Transaction>
+    <Transaction>2012-08-26 20:21:20.073.pas,E:\Dev\i3gqq\4\youku unlock\source\MainFrm.pas=</Transaction>
+    <Transaction>2012-08-26 20:21:20.073.dfm,E:\Dev\i3gqq\4\youku unlock\source\MainFrm.dfm=</Transaction>
+    <Transaction>2012-08-26 20:21:49.820.pas,E:\Dev\i3gqq\4\youku unlock\source\Unit1.pas=E:\Dev\i3gqq\4\youku unlock\source\Main.pas</Transaction>
+    <Transaction>2012-08-26 20:21:49.820.dfm,E:\Dev\i3gqq\4\youku unlock\source\Unit1.dfm=E:\Dev\i3gqq\4\youku unlock\source\Main.dfm</Transaction>
+    <Transaction>2012-08-27 01:48:04.334.pas,E:\Dev\i3gqq\4\youku unlock\source\Unit1.pas=E:\Dev\i3gqq\4\youku unlock\source\ProxySettings.pas</Transaction>
+    <Transaction>2012-08-28 01:05:50.069.pas,E:\Dev\i3gqq\4\ItunesWatchPro\Common\Helper.pas=</Transaction>
+    <Transaction>2012-08-28 01:05:50.069.dfm,E:\Dev\i3gqq\4\ItunesWatchPro\Common\Helper.dfm=</Transaction>
+    <Transaction>2012-08-28 01:05:51.756.pas,E:\Dev\i3gqq\4\ItunesWatchPro\Common\Upgrade.pas=</Transaction>
+  </Transactions>
+</BorlandProject>

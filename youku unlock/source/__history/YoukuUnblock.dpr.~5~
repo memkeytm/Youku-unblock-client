@@ -1,0 +1,29 @@
+program YoukuUnblock;
+
+uses
+  windows,
+  Forms,
+  uUtils in 'uUtils.pas',
+  Main in 'Main.pas' {MainForm},
+  ProxySettings in 'ProxySettings.pas',
+  Upgrade in 'Common\Upgrade.pas',
+  Helper in 'Common\Helper.pas' {HelperFrame: TFrame},
+  functions in 'Common\functions.pas';
+
+{$R *.res}
+
+var
+  Mutex:   THandle;
+begin
+  Mutex:= CreateMutex(nil,   True,   'youkuUnblock');
+  if   GetLastError   <>   ERROR_ALREADY_EXISTS   then
+  begin
+    Application.Initialize;
+    Application.MainFormOnTaskbar := True;
+    Application.CreateForm(TMainForm, MainForm);
+    Application.Run;
+  end
+  else
+    Application.Terminate;
+  ReleaseMutex(Mutex);
+end.
